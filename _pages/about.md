@@ -55,33 +55,16 @@ My research focuses on **reinforcement learning and imitation learning for robot
 
 <hr class="section-sep">
 
-## Research Projects
+## Projects
 
 <div class="entry">
-  <div>
-    <b>Isaac Lab — RBY1 Left-Arm Pick &amp; Place (Joint-space Diffusion Policy)</b><br>
-    Built a full pipeline (Record → Replay → Annotate → Generate → Train → Play) collecting and augmenting RBY1 left-arm teleoperation demos with Isaac Lab + Robomimic, training a joint-space Diffusion Policy, and replaying it in simulation.
-    <div class="links">
-      <a href="https://github.com/JayCho01/tv" target="_blank">GitHub</a>
-    </div>
-  </div>
-  <div class="entry-date">2025 – Present</div>
+  <div>Development of Intelligent Autonomous Manipulation Technology for Humanoids with Reduced Dependency on Real-World Data</div>
+  <div class="entry-date">Jul 2025 – Present</div>
 </div>
 
 <div class="entry">
-  <div>
-    <b>XR-based Human–Manipulator Co-manipulation Data Generation (4-year proposal)</b><br>
-    Participated in a 4-year research proposal on generating human co-manipulation data with XR and digital twins for Physical AI, targeting high-difficulty manipulation (e.g., logistics packing). Collaboration with KITECH, SIMES, Dongguk University, and CJ Logistics.
-  </div>
-  <div class="entry-date">2026 – </div>
-</div>
-
-<div class="entry">
-  <div>
-    <b>SimReady Dataset / Sim-to-Real</b><br>
-    Construction and validation of simulation-ready datasets, studying domain randomization and other techniques to mitigate the sim-to-real gap for legged-robot and manipulation tasks.
-  </div>
-  <div class="entry-date">2025</div>
+  <div>Robot Motion Generation AI based on Multimodal Vision/Tactile Information Driven by Language Model</div>
+  <div class="entry-date">Mar 2025 – Present</div>
 </div>
 
 <hr class="section-sep">
