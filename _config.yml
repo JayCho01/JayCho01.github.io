@@ -22,7 +22,7 @@ repository               : "JayCho01/JayCho01.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio_photo.png"
+  avatar           : # "bio_photo.png" — add a profile photo to /images/ and set the filename here
   name             : "Junhyeon Cho"
   pronouns         : # example: "she/her"
   bio              : "M.S. Student in Robotics at Dongguk University"
