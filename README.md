@@ -1,6 +1,6 @@
 # JayCho01.github.io
 
-Personal academic website of **Junhyeon Cho (Jay)** — M.S. student in Robotics at Dongguk University, Interactive Robotics Lab (Prof. Soo-Chul Lim).
+Personal academic website of **Junhyeon Cho** — M.S. student in Robotics at Dongguk University, Interactive Robotics Lab (Prof. Soo-Chul Lim).
 
 🔗 https://JayCho01.github.io
 

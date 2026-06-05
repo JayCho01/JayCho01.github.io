@@ -39,6 +39,9 @@ My research focuses on **reinforcement learning and imitation learning for robot
 ## Publications
 
 <div class="pub">
+  <div class="pub-thumb">
+    <img src="files/pixel2catch.gif" alt="Pixel2Catch">
+  </div>
   <div>
     <span class="pub-title">Pixel2Catch: Multi-Agent Sim-to-Real Transfer for Agile Manipulation with a Single RGB Camera</span><br>
     Seongyong Kim, <b>Junhyeon Cho</b>, Kang-Won Lee, Soo-Chul Lim<br>
@@ -98,28 +101,4 @@ My research focuses on **reinforcement learning and imitation learning for robot
 <div class="entry">
   <div>3rd Place, <i>10th 2024 R-BIZ Challenge</i>, Korean Agency for Technology and Standards (KATS)</div>
   <div class="entry-date">Oct 2024</div>
-</div>
-
-<hr class="section-sep">
-
-## Technical Blog
-
-<div class="entry">
-  <div>
-    Physical AI 개발의 가장 큰 벽: Sim-to-Real Gap의 원인과 극복 방법
-    <div class="links">
-      <a href="https://medium.com/@jayinkr01" target="_blank">Read on Medium</a>
-    </div>
-  </div>
-  <div class="entry-date">Medium</div>
-</div>
-
-<div class="entry">
-  <div>
-    로봇은 어떻게 배울까? 강화학습과 모방학습
-    <div class="links">
-      <a href="https://medium.com/@jayinkr01" target="_blank">Read on Medium</a>
-    </div>
-  </div>
-  <div class="entry-date">Medium</div>
 </div>
