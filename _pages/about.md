@@ -32,7 +32,7 @@ I am an M.S. student in Robotics at Dongguk University, Korea, in the [Interacti
 
 My research focuses on **reinforcement learning and imitation learning for robotic manipulation**, with an emphasis on closing the **sim-to-real gap** — building high-fidelity digital twins, collecting data through humanoid teleoperation, and deploying learned policies on real robots.
 
-**Research interests:** Humanoid Manipulation · Sim-to-Real Transfer · Imitation Learning · Digital Twin / XR · Dexterous Hand Manipulation · Multi-modal Learning
+**Research interests:** Humanoid Manipulation · Sim-to-Real Transfer · Imitation Learning · Dexterous Hand Manipulation
 
 <hr class="section-sep">
 
